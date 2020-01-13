@@ -31,5 +31,9 @@
     "prepareActionJest": "npm run build:prod"
   },
   "description": "jaid-core plugin for simple WebSocket APIs.",
-  "funding": "https://github.com/sponsors/jaid"
+  "funding": "https://github.com/sponsors/jaid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaid/jaid-core-socket-api"
+  }
 }

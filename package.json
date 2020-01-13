@@ -1,5 +1,4 @@
 {
-  "private": true,
   "webpackConfigJaid": "universalLib",
   "version": "0.1.0",
   "author": "Jaid <jaid.jsx@gmail.com> (https://github.com/Jaid)",
@@ -32,6 +31,7 @@
   },
   "description": "jaid-core plugin for simple WebSocket APIs.",
   "funding": "https://github.com/sponsors/jaid",
+  "name": "jaid-core-socket-api",
   "repository": {
     "type": "git",
     "url": "https://github.com/jaid/jaid-core-socket-api"

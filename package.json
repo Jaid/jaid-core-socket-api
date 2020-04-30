@@ -36,5 +36,15 @@
   },
   "private": true,
   "homepage": "https://github.com/Jaid/jaid-core-socket-api",
-  "keywords": []
+  "keywords": [
+    "lib",
+    "library",
+    "socket",
+    "socket-io",
+    "socket-io-server",
+    "socketio-server",
+    "util",
+    "utility",
+    "websocket"
+  ]
 }
